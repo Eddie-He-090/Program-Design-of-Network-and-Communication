@@ -1,0 +1,14 @@
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\bin\Debug\ADB.exe.config
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\bin\Debug\ADB.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\bin\Debug\ADB.pdb
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\obj\Debug\ADB.csprojAssemblyReference.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\obj\Debug\ADB.Properties.Resources.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\obj\Debug\ADB.csproj.GenerateResource.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\obj\Debug\ADB.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\obj\Debug\ADB.pdb
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\obj\Debug\ADB.Form1.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\bin\Debug\ADB.exe.manifest
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\bin\Debug\ADB.application
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\obj\Debug\ADB.csproj.CoreCompileInputs.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\obj\Debug\ADB.exe.manifest
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\ADB\ADB\obj\Debug\ADB.application
