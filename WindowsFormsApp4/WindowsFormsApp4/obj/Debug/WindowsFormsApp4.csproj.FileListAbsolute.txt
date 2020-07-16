@@ -1,0 +1,10 @@
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
