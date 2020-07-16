@@ -1,0 +1,8 @@
+﻿body {
+}
+
+.one_third_div {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
