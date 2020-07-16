@@ -1,0 +1,57 @@
+D:\快盘\2014 教学\cscode\13_HttpFtp\13_HttpFtp\bin\Debug\13_HttpFtp.exe
+D:\快盘\2014 教学\cscode\13_HttpFtp\13_HttpFtp\bin\Debug\13_HttpFtp.pdb
+D:\快盘\2014 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\ResolveAssemblyReference.cache
+D:\快盘\2014 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_MyMail.resources
+D:\快盘\2014 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_WebBrowser.resources
+D:\快盘\2014 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_WebClient.resources
+D:\快盘\2014 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.Properties.Resources.resources
+D:\快盘\2014 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.csproj.GenerateResource.Cache
+D:\快盘\2014 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.exe
+D:\快盘\2014 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.pdb
+D:\快盘\2014 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.Form1.resources
+D:\快盘\201503 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.exe
+D:\快盘\201503 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.pdb
+D:\快盘\201503 教学\cscode\13_HttpFtp\13_HttpFtp\bin\Debug\13_HttpFtp.exe
+D:\快盘\201503 教学\cscode\13_HttpFtp\13_HttpFtp\bin\Debug\13_HttpFtp.pdb
+D:\快盘\201503 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\ResolveAssemblyReference.cache
+D:\快盘\201503 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.Form1.resources
+D:\快盘\201503 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_MyMail.resources
+D:\快盘\201503 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_WebBrowser.resources
+D:\快盘\201503 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_WebClient.resources
+D:\快盘\201503 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.Properties.Resources.resources
+D:\快盘\201503 教学\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.csproj.GenerateResource.Cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\cscode\13_HttpFtp\13_HttpFtp\bin\Debug\13_HttpFtp.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\cscode\13_HttpFtp\13_HttpFtp\bin\Debug\13_HttpFtp.pdb
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.csprojAssemblyReference.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.Form1.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_MyMail.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_WebBrowser.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_WebClient.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.Properties.Resources.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.csproj.GenerateResource.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.pdb
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\bin\Debug\13_HttpFtp.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\bin\Debug\13_HttpFtp.pdb
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.csprojAssemblyReference.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.Form1.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_MyMail.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_WebBrowser.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_WebClient.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.Properties.Resources.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.csproj.GenerateResource.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.csproj.CoreCompileInputs.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\cscode\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.pdb
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\bin\Debug\13_HttpFtp.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\bin\Debug\13_HttpFtp.pdb
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.csprojAssemblyReference.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.Form1.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_MyMail.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_WebBrowser.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.F_WebClient.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\obj\Debug\_13_HttpFtp.Properties.Resources.resources
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.csproj.GenerateResource.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.csproj.CoreCompileInputs.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\13_HttpFtp\13_HttpFtp\obj\Debug\13_HttpFtp.pdb
