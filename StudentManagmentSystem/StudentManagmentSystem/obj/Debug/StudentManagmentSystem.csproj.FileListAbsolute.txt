@@ -1,0 +1,168 @@
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\StudentManagmentSystem.dll.config
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\StudentManagmentSystem.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\StudentManagmentSystem.pdb
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csc.exe
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csc.exe.config
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csc.rsp
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csi.exe
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csi.exe.config
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csi.rsp
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.AppContext.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Console.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.Compression.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.Pipes.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.AccessControl.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Claims.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.ValueTuple.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.XPath.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\vbc.exe
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\vbc.exe.config
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\vbc.rsp
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\VBCSCompiler.exe
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csprojAssemblyReference.cache
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.CoreCompileInputs.cache
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.CopyComplete
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.dll
+D:\Files\Study\VS2017\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.pdb
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\StudentManagmentSystem.dll.config
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\StudentManagmentSystem.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\StudentManagmentSystem.pdb
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csc.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csc.exe.config
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csc.rsp
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csi.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csi.exe.config
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csi.rsp
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.AppContext.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Console.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.Compression.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.Pipes.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Claims.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.ValueTuple.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.XPath.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\vbc.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\vbc.exe.config
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\vbc.rsp
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\VBCSCompiler.exe
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csprojAssemblyReference.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.CoreCompileInputs.cache
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.CopyComplete
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.dll
+C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Visual Studio\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.pdb
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\StudentManagmentSystem.dll.config
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\StudentManagmentSystem.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\StudentManagmentSystem.pdb
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csc.exe
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csc.exe.config
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csc.rsp
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csi.exe
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csi.exe.config
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\csi.rsp
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Console.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Claims.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\vbc.exe
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\vbc.exe.config
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\vbc.rsp
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csprojAssemblyReference.cache
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.CopyComplete
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.dll
+C:\Users\Eddie\Downloads\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.pdb
