@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\WindowsFormsApp1" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WindowsFormsApp1" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Form2.cs" t="Include" />
+        <e p="Form2.Designer.cs" t="Include" />
+        <e p="Form3.cs" t="Include" />
+        <e p="Form3.Designer.cs" t="Include" />
+        <e p="Form3.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="WindowsFormsApp1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WindowsFormsApp1.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\Eddie\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Eddie\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_WindowsFormsApp1.1047577842.00" t="ExcludeRecursive" />
+  </component>
+</project>
